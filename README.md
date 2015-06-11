@@ -24,6 +24,14 @@ When everything is okay It gives you the query plan as result.
 	                       ^
 	Time: 0.262 ms
 	
+### How to install?
+
+You can install like this
+
+	$ git clone git@github.com:bfaludi/sqlvalidator.git
+	$ cd sqlvalidator
+	$ python setup.py install
+	
 ### How to generate the SQL file?
 
 Just write the following:
